@@ -1,0 +1,2 @@
+No customer found with phone number: 0790781234000
+Could not connect to customer registry database.
